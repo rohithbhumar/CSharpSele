@@ -1,0 +1,18 @@
+[
+  {
+    "UserName": "admin",
+    "PassWord": "password",
+    "IsValid": true
+  },
+  {
+    "UserName": "admin111",
+    "PassWord": "password",
+    "IsValid": false
+  },
+  {
+    "UserName": "admin222",
+    "PassWord": "password",
+    "IsValid":  false
+  }
+  
+]

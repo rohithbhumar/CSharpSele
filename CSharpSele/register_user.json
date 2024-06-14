@@ -1,0 +1,22 @@
+[
+  {
+    "UserName": "piperpiper3",
+    "PassWord": "Password@123",
+    "ConfirmPassWord": "Password@123",
+    "Email": "test@test.com"
+
+  },
+  {
+    "UserName": "piperpiper1",
+    "PassWord": "Password@123",
+    "ConfirmPassWord": "Password@123",
+    "Email": "test_1@test.com"
+  },
+  {
+    "UserName": "piperpiper2",
+    "PassWord": "Password@123",
+    "ConfirmPassWord": "Password@123",
+    "Email": "test_2@test.com"
+  }
+  
+]
